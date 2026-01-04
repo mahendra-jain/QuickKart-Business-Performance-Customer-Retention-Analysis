@@ -1,0 +1,31 @@
+product_id,product_name,category,brand
+PROD01,Milk 1L,Dairy,Amul
+PROD02,Bread Loaf,Bakery,Britannia
+PROD03,Potato Chips,Snacks,Lays
+PROD04,Fresh Apples,Fruits,Local Farm
+PROD05,Soft Drink 500Ml,Beverages,Pepsi
+PROD06,Basmati Rice 5 Kg,Groceries,India Gate
+PROD07,Tooth Paste,Personal Care,Colgate
+PROD08,Chocolate Bar,Confectionary,Cadbury
+PROD09,Cooking Oil 1L,Grocery,Fortune
+PROD10,Curd 500 G,Dairy,Amul
+PROD11,Brown Bread,Bakery,Britannia
+PROD12,Orange Juice 1L,Beverages,Tropicana
+PROD13,Bananas,Fruits,Local Farm
+PROD14,Almonds 250G,Dry Fruits,Tata
+PROD15,Green Tea,Beverages,Lipton
+PROD16,Sugar 1Kg,Grocery,Tata
+PROD17,Salt 1Kg,Grocery,Tata
+PROD18,Ice Cream,Frozen,Amul
+PROD19,Paneer 200G,Dairy,Amul
+PROD20,Cookies Pack,Bakery,Britannia
+PROD21,Shampoo,Personal Care,Dove
+PROD22,Soap Bar,Personal Care,Lux
+PROD23,Atta 5Kg,Groceries,Aashirvaad
+PROD24,Tea Powder,Beverages,Tata Tea
+PROD25,Cornflakes,Breakfast,Kelloggs
+PROD26,Butter 500G,Dairy,Amul
+PROD27,Cheese Slices,Dairy,Amul
+PROD28,Jam Bottle,Bakery,Kissan
+PROD29,Noodles,Snacks,Maggi
+PROD30,Tomato Ketchup,Grocery,Kissan
