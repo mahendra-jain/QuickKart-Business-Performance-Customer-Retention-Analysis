@@ -1,0 +1,32 @@
+order_id,customer_id,order_date,city,order_status,payment_method,order_value,product_id,quantity,selling_price,mrp,promised_time_mins,actual_time_mins,delivery_partner_rating,rating,rating_category,feedback_text
+ORD1001,CUST201,2024-01-05,Bangalore,Completed,UPI,645.0,PROD01,2.0,120.0,140.0,30,28,5.0,5.0,Very Good,Quick delivery & good quality
+ORD1001,CUST201,2024-01-05,Bangalore,Completed,UPI,645.0,PROD02,1.0,180.0,200.0,30,28,5.0,5.0,Very Good,Quick delivery & good quality
+ORD1002,CUST202,2024-01-05,Mumbai,Cancel,Credit Card,430.0,PROD03,3.0,90.0,100.0,25,40,2.0,2.0,Not Good,delivery was TOO late!!!
+ORD1003,CUST203,2024-01-06,Delhi,Completed,Cash,621.73,PROD04,2.0,250.0,280.0,30,32,4.0,4.0,Very Good,Slight delay but ok
+ORD1004,CUST204,2024-01-06,Hyderabad,Completed,UPI,520.0,PROD01,1.0,120.0,140.0,20,18,5.0,5.0,Very Good,Excellent service
+ORD1005,CUST205,2024-01-07,Bangalore,Cancelled,Debitcard,310.0,PROD05,2.0,70.0,80.0,25,45,1.0,1.0,Not Good,cancelled bcz of delay
+ORD1006,CUST206,2024-01-07,Pune,Completed,UPI,760.0,PROD06,1.0,300.0,330.0,30,29,4.0,4.0,Very Good,good experience
+ORD1007,CUST207,2024-01-08,Mumbai,Completed,Credit Card,890.0,PROD02,2.0,180.0,200.0,35,38,3.3,3.0,Good,Delivery could be faster
+ORD1008,CUST208,2024-01-08,None,Cancel,UPI,450.0,PROD03,1.0,90.0,100.0,20,42,2.0,2.0,Not Good,Poor delivery experience
+ORD1009,CUST209,2024-01-09,Hyderabad,Completed,Cash,670.0,PROD04,1.0,164.64,280.0,25,24,5.0,5.0,Very Good,Very satisfied 😊
+ORD1010,CUST210,2024-01-09,Pune,Completed,Debit Card,621.73,,,,,30,27,4.0,3.4,Good,Good overall service
+ORD1011,CUST211,2024-01-10,Bangalore,Completed,UPI,720.0,PROD01,1.0,120.0,140.0,30,35,3.0,4.0,Very Good,Good delivery
+ORD1012,CUST212,2024-01-10,Mumbai,Cancelled,Creditcard,560.0,PROD03,2.0,90.0,100.0,25,40,2.0,2.0,Not Good,very late delivery
+ORD1013,CUST213,2024-01-11,Delhi,Completed,Cash,890.0,PROD04,2.0,250.0,280.0,30,28,4.0,5.0,Very Good,Loved the service
+ORD1014,CUST214,2024-01-11,Hyderabad,Complete,UPI,430.0,PROD02,1.0,180.0,200.0,20,22,4.0,4.0,Very Good,On time
+ORD1015,CUST215,2024-01-12,Bangalore,Cancel,Debit Card,621.73,PROD05,2.0,70.0,80.0,25,50,1.0,1.0,Not Good,order cancelled
+ORD1016,CUST216,2024-01-12,Pune,Completed,UPI,610.0,PROD06,1.0,300.0,330.0,30,29,5.0,5.0,Very Good,Excellent 😊
+ORD1017,CUST217,2024-01-13,Mumbai,Completed,Credit Card,980.0,PROD02,2.0,180.0,200.0,35,36,3.3,3.4,Good,delivery slow
+ORD1018,CUST218,2024-01-13,Delhi,Cancelled,UPI,350.0,PROD03,1.0,164.64,100.0,20,45,2.0,2.0,Not Good,poor experience
+ORD1019,CUST219,2024-01-14,Hyderabad,Completed,Cash,770.0,PROD04,1.0,250.0,280.0,25,26,4.0,4.0,Very Good,satisfactory
+ORD1020,CUST220,2024-01-14,Pune,Completed,Debitcard,690.0,PROD01,3.0,120.0,140.0,30,31,3.0,3.0,Good,okay service
+ORD1021,CUST221,2024-01-15,Bangalore,Completed,UPI,540.0,PROD05,2.0,70.0,80.0,30,27,5.0,5.0,Very Good,Very fast delivery
+ORD1022,CUST222,2024-01-15,Mumbai,Cancel,UPI,410.0,PROD03,3.0,90.0,100.0,25,39,2.0,2.0,Not Good,delivery delay again
+ORD1023,CUST223,2024-01-16,Delhi,Completed,Cash,860.0,PROD06,1.0,300.0,330.0,30,30,4.0,4.0,Very Good,decent
+ORD1024,CUST224,2024-01-16,Hyderabad,Completed,UPI,590.0,PROD02,2.0,180.0,200.0,20,19,5.0,5.0,Very Good,great service
+ORD1025,CUST225,2024-01-17,Bangalore,Cancelled,Credit Card,300.0,PROD01,1.0,120.0,140.0,25,48,1.0,1.0,Not Good,cancelled again
+ORD1026,CUST226,2024-01-17,Pune,Completed,Debit Card,740.0,PROD04,1.0,250.0,280.0,30,30,4.0,4.0,Very Good,good
+ORD1027,CUST227,2024-01-18,Mumbai,Completed,Cash,920.0,PROD03,2.0,90.0,100.0,35,37,3.0,3.0,Good,average
+ORD1028,CUST228,2024-01-18,Delhi,Cancelled,UPI,480.0,PROD05,1.0,70.0,164.64,20,41,2.0,2.0,Not Good,bad delivery
+ORD1029,CUST229,2024-01-19,Hyderabad,Completed,Cash,621.73,PROD06,1.0,300.0,330.0,25,33,3.0,3.4,Good,no comments
+ORD1030,CUST230,2024-01-19,Pune,Completed,UPI,650.0,PROD02,1.0,180.0,200.0,30,28,4.0,4.0,Very Good,good overall
